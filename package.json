@@ -1,0 +1,16 @@
+{
+  "name": "assignment00",
+  "version": "1.0.0",
+  "description": "REST API quản lý danh sách công việc với Node.js và Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["nodejs", "express", "rest-api", "task-management"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
